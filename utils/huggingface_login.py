@@ -20,13 +20,3 @@ def login_to_huggingface(env_path: str, token_key: str = "HUGGINGFACE_TOKEN") ->
     # 3. 로그인 시도
     login(token=hf_token)  # 유효한 토큰을 사용하여 Hugging Face에 로그인을 시도합니다.
     print(f"Hugging Face 로그인 성공! (Token Key: {token_key})")  # 성공적으로 로그인되었음을 사용자에게 알립니다.
-
-# --- 사용 예시 ---
-if __name__ == "__main__":
-    # 사용자의 특정 경로 변수 지정
-    my_env_path = ".env" # 사용자가 제공한 원본 경로를 변수에 담습니다.
-    
-    try:
-        login_to_huggingface(my_env_path) # 함수를 호출하여 로그인을 수행합니다.
-    except Exception as e:
-        print(f"로그인 중 오류 발생: {e}") # 에러 발생 시 프로그램이 멈추지 않고 메시지를 출력하도록 예외 처리를 합니다.

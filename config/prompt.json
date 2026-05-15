@@ -1,0 +1,22 @@
+{
+  "project_name": "ASAN_04_Bayley_Motion_Analysis",
+  "latest_version": "v1.0",
+  "experiments": [
+    {
+      "version": "v1.0",
+      "date": "2026-05-16",
+      "description": "BSID expert segmentation with exact JSON output format",
+      "model_settings": {
+        "model_id": "gemini-2.5-flash",
+        "temperature": 0.0,
+        "top_p": 0.9
+      },
+      "prompt_data": {
+        "system_instruction": "You are a professional developmental specialist and video analyst skilled in the Bayley Scales of Infant and Toddler Development (BSID). Your task is to segment a raw assessment video into specific task-based clips.",
+        "user_message": "Instructions:\n1. Watch the provided video carefully and identify the distinct test items being performed.\n2. For each task, provide the start and end timestamps in MM:SS format.\n3. Provide a brief 'Visual Trigger' description (e.g., 'Assessor brings out the red ring', 'Infant successfully grasps the block').\n4. Output the result strictly in a JSON format so I can use it for automated video clipping.\n\nOutput Format Example:\n[\n  {\n    \"task_name\": \"Fine Motor: Grasping\",\n    \"start_time\": \"00:15\",\n    \"end_time\": \"00:45\",\n    \"visual_trigger_start\": \"The assessor places a small block on the table.\",\n    \"visual_trigger_end\": \"The infant releases the block and looks away.\"\n  }\n]\n\nVideo Data: {video_data}"
+      },
+      "status": "active",
+      "notes": ""
+    }
+  ]
+}

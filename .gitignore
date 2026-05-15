@@ -139,9 +139,9 @@ celerybeat.pid
 *.sage.py
 
 # Environments
+
 .env
 .venv
-env/
 venv/
 ENV/
 env.bak/
@@ -219,3 +219,4 @@ $RECYCLE.BIN/
 
 # --- IGNORE ---
 my_gemma_model/
+*.mp4

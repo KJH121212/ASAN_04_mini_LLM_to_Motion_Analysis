@@ -1,8 +1,15 @@
 import torch
 import time
+import os
+import sys
+from pathlib import Path
 from transformers import AutoProcessor, AutoModelForCausalLM
 
-LOCAL_MODEL_PATH = "./my_gemma_model"
+PROJECT_ROOT = Path(__file__).parent.parent.parent
+sys.path.append(str(PROJECT_ROOT))
+print(f"📁 프로젝트 루트 경로: {PROJECT_ROOT}")
+
+LOCAL_MODEL_PATH = str(PROJECT_ROOT / "my_gemma_model")
 
 print(f"[{LOCAL_MODEL_PATH}] 로컬 모델 로딩 중...")
 
