@@ -36,7 +36,22 @@ while True:
     
     # 🌟 핵심 3: 방금 친 질문 하나가 아니라 '누적된 전체 대화 기록'을 모델에게 전달합니다.
     text = processor.apply_chat_template(chat_history, add_generation_prompt=True)
-    inputs = processor(text=[text], return_tensors="pt").to(model.device)
+    # 수정된 코드 (채팅 템플릿 적용)
+
+    # 1. 메시지 형식(List of Dictionaries)으로 구성
+    messages = [
+        {"role": "user", "content": text} # text 변수에 사용자의 질문이 들어있다고 가정
+    ]
+
+    # 2. 토크나이저의 apply_chat_template를 사용하여 올바른 프롬프트 형식으로 변환
+    prompt = processor.tokenizer.apply_chat_template(
+        messages, 
+        tokenize=False, # 텍스트 형태로 유지
+        add_generation_prompt=True # 모델이 답변할 차례임을 알리는 토큰 추가
+    )
+
+    # 3. 변환된 프롬프트를 processor(또는 tokenizer)에 전달
+    inputs = processor(text=prompt, return_tensors="pt").to(model.device)
 
     print("Gemma: \n", end="", flush=True)
     

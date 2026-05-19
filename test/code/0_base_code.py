@@ -13,7 +13,7 @@ print(f"📁 프로젝트 루트 경로: {PROJECT_ROOT}")
 from utils.path_list_d03 import path_list_d03
 
 DATA_DIR = Path("/workspace/nas203/ds_RehabilitationMedicineData/IDs/tojihoo/data_d03")  # 데이터 디렉토리 경로를 설정합니다.
-CSV_PATH = DATA_DIR / "metadata_v1.0.csv"
+CSV_PATH = DATA_DIR / "metadata_v1.1.csv"
 
 df = pd.read_csv(str(CSV_PATH))
 
@@ -21,5 +21,3 @@ target = 0
 
 common_path = df.iloc[target]['common_path']
 paths = path_list_d03(common_path)
-
-paths['ass']
