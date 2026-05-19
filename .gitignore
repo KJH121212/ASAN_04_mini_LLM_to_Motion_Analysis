@@ -43,3 +43,6 @@ temp-audio.m4a
 Thumbs.db
 [Dd]esktop.ini
 *.stackdump
+
+test/data/
+*.mp4
