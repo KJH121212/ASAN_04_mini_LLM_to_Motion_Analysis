@@ -46,3 +46,7 @@ Thumbs.db
 
 test/data/
 *.mp4
+
+*.npz
+*.npy
+*.faiss

@@ -1,0 +1,1 @@
+import torch; print('PyTorch 버전:', torch.__version__); print('GPU 인식 여부:', torch.cuda.is_available())

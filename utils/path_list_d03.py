@@ -16,6 +16,7 @@ def path_list_d03(common_path: str, create_dirs: bool = False):
     paths = {
         "video":          RAW_DIR / f"{common_path}.mp4",
         "ass":            RAW_DIR / "ass" / f"{common_path}.ass",
+        "split_video":    BASE_DIR / "00_SPLIT_VIDEO_V2" / common_path,
         "frame":          BASE_DIR / "01_FRAME" / common_path,                # 추출된 프레임 저장 위치
         "keypoint":       BASE_DIR / "02_KEYPOINTS" / common_path,            # 원본 키포인트(JSON) 저장 위치
         "mp4":            BASE_DIR / "03_MP4" / f"{common_path}.mp4",         # 원본 키포인트 기반 시각화 영상 파일 경로

@@ -1,0 +1,1075 @@
+====================================================================
+      [🎖️ Qwen2.5-VL X Local RAG 영유아 대대적 채점 자동화 레포트]      
+====================================================================
+
+▶️ [VIDEO FILE]: GM_36_2__GM_46_2__717f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent backward walking skills by taking at least three steps backward without support and maintaining good balance. The stepping path exercise further confirms the child's ability to walk backward accurately and confidently, as they successfully cover the required distance within the specified parameters."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_40_2__GM_51_1__1555f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance while walking backward along the stepping path. The child successfully takes at least three steps backward without support, indicating strong motor skills and confidence in this task. The stepping path provides a clear visual guide, helping the child maintain proper form and stride. The caregiver's presence adds a layer of reassurance, ensuring the child feels secure during the activity. Overall, the child's performance aligns well with the scoring criteria for both Item 40 and Item 51."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_1__2553f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance while walking backward along the stepping path. The child successfully takes at least three steps backward without support, indicating strong motor skills and confidence in this task. The caregiver is present but does not need to provide physical support, as the child maintains good balance throughout the activity. This performance aligns well with the scoring criteria for both Item 40 and Item 51, reflecting a high level of development in the child's gross motor skills."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_1__4361f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent backward walking skills, taking at least three steps backward without support and maintaining good balance. This performance aligns with the highest score of 2 for both Item 40 and Item 51, indicating strong motor coordination and confidence in walking backward. The child's ability to follow instructions and maintain balance suggests a high level of development in this area."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_36_2__GM_46_2__93f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, aligning with the scoring criteria for Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria for Item 51. The caregiver and therapist provide encouragement and support, ensuring a positive learning environment."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_40_2__GM_51_2__448f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as instructed. The stepping path placed on the floor provides a clear visual guide, and the child successfully maintains their balance while walking backward, indicating strong motor skills and confidence in this task."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_45_2__3648f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child does not walk backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates the ability to walk backward by taking two steps without support, though there is a slight loss of balance. However, the child is unable to walk backward within the specified distance of the stepping path, indicating that they do not meet the criteria for scoring a higher level in this related item."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_48_2__GM_47_1__1066f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child does not walk backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates the ability to walk backward by taking two steps without support, though there is a slight loss of balance. However, the child is unable to walk backward within the specified distance of the stepping path, indicating a need for further practice and support."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_48_2__GM_47_1__1256f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria outlined in Item 51. The child's performance indicates strong motor skills and confidence in performing the task independently."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_48_2__GM_47_1__1353f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child does not walk backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates the ability to walk backward by taking two steps without support, though there is a slight loss of balance. However, the child is unable to walk backward within the specified distance on the stepping path, indicating a need for further practice and support."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_0__1934f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "51",
+      "scoring_decision": "1",
+      "clinical_justification": "The child walks backward close to the stepping path for several steps."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates the ability to walk backward by taking two steps without support, though there is a slight loss of balance. The stepping path placed on the floor provides a visual guide, helping the child maintain a steady pace. The child's movements suggest early stages of motor skill development, as they are able to follow the path with some guidance."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_0__2056f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by the scoring criteria for Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering closely to the path for a significant distance, which aligns with the scoring criteria for Item 51. The child's performance indicates strong motor skills and confidence in walking backward."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_0__2124f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, aligning with the scoring criteria for Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria for Item 51. This performance indicates strong motor skills and confidence in navigating the space."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_0__2444f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "51",
+      "scoring_decision": "1",
+      "clinical_justification": "The child walks backward close to the stepping path for several steps."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates the ability to walk backward by taking two steps without support, though there is a slight loss of balance. The stepping path placed on the floor provides a visual guide, helping the child maintain a steady pace. The child's movements suggest early stages of coordination and balance development, which align with the scoring criteria for a score of 1."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_0__2508f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance while walking backward along the stepping path. The child successfully takes at least three steps backward without support, indicating strong motor skills and confidence in this task. The stepping path provides a clear visual guide, helping the child maintain proper form and stride. The child's performance aligns well with the scoring criteria for both Item 40 and Item 51, showcasing a high level of development in walking backward."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_50_2__3040f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child does not walk backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates the ability to walk backward by taking two steps without support, although there is a slight loss of balance. However, the child is unable to walk backward within the specified distance of the stepping path, indicating a need for further practice and support."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_36_2__1560f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "1",
+      "clinical_justification": "The child walks backward close to the stepping path for several steps."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates the ability to walk backward by taking two steps without support, though there is a slight loss of balance. The stepping path placed on the floor provides a visual guide, helping the child maintain a steady pace. The child's movements suggest early stages of developing backward walking skills, which align with the scoring criteria for both Item 40 and Item 51."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_36_2__GM_46_1__1918f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent backward walking skills by taking at least three steps backward without support, maintaining good balance throughout the sequence. The caregiver encourages the child to walk backward, and the child confidently follows the instructions, showing a strong understanding of the task. The stepping path is used effectively to guide the child, ensuring they stay on track and maintain proper foot placement. This performance aligns well with the scoring criteria for both Item 40 and Item 51, indicating a high level of motor skill development."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_37_2__1264f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria outlined in Item 51. This performance indicates strong motor skills and confidence in navigating backward movements."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_37_2__638f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "0",
+    "clinical_justification": "The child does not take at least 2 steps backward without support and loses balance after 1 to 2 steps."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child stumbles walking backward and requires support."
+    }
+  ],
+  "overall_behavioral_synthesis": "In the video, the child is attempting to walk backward but is unable to maintain balance and support themselves independently. The caregiver is present to assist the child, indicating that the child may require additional support to achieve the goal of walking backward without assistance. The child's performance aligns with a score of 0 for both Item 40 and Item 51 due to the lack of independent backward walking and balance issues."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_38_2__6882f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent backward walking skills, taking at least three steps backward without support and maintaining good balance throughout the sequence. The child's performance aligns with the highest scoring criteria for both Item 40 and Item 51, indicating strong motor coordination and confidence in walking backward."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_40_2__2784f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent backward walking skills by taking at least three steps backward without support and maintaining good balance. The caregiver encourages the child to walk backward, and the child successfully completes the task with confidence. The stepping path is used effectively to guide the child, ensuring they stay on track and maintain their balance throughout the activity."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_43_2__4986f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance while walking backward, successfully taking at least three steps without support. The stepping path exercise further confirms the child's ability to maintain stability and follow the path, indicating strong motor skills development."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_47_1__GM_48_1__2906f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child does not walk backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "In the video, the child demonstrates the ability to walk backward by taking two steps without support, although there is a slight loss of balance. The child's performance aligns with the scoring criteria for Item 40, where a score of 1 is given for taking 2 steps backward without support. However, the related Item 51, which involves walking backward along a stepping path, is not successfully completed as the child stumbles and does not maintain balance within the required distance."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_47_1__GM_48_1__7075f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child stumbles while attempting to walk backward on the stepping path."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates the ability to walk backward by taking two steps without support, though there is a slight loss of balance. However, when attempting to walk backward on the stepping path, the child stumbles and requires support, indicating that they do not meet the criteria for walking backward within the specified distance."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_36_2__GM_46_2__529f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, aligning with the scoring criteria for Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria for Item 51. The child's performance indicates strong motor skills and confidence in walking backward."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_40_2__1069f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance as he takes three steps backward without support, aligning with the scoring criteria for Item 40. Additionally, the child successfully walks backward along the stepping path for a significant distance, meeting the criteria for Item 51. The interaction appears supportive and encouraging, indicating a positive developmental milestone."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_45_0__6462f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by Item 40. Additionally, the child successfully walks backward along the stepping path for a significant distance, aligning with the criteria for Item 51. The child's performance indicates strong motor skills and confidence in walking backward, suggesting a high level of development in this area."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_1__4122f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support. The healthcare professional guides the child through the stepping path exercise, ensuring that the child maintains proper form and balance throughout the activity. The child's performance aligns well with the scoring criteria for both Item 40 and Item 51, indicating strong motor skills and development."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_45_2__1794f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "0",
+    "clinical_justification": "The child does not take at least 2 steps backward without support or walks backward and loses balance after 1 to 2 steps."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child stumbles walking backward, requiring support, or cannot walk backward."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child attempts to walk backward but is unable to maintain balance and support, resulting in a score of 0 for both Item 40 and the related Item 51. The child's movements are unsteady, and he frequently loses his balance, indicating difficulty with backward walking skills."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_45_2__2117f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child does not walk backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "In the video, the child demonstrates the ability to walk backward by taking two steps without support, although there is a slight loss of balance. This performance aligns with a score of 1 according to the scoring criteria for Item 40. However, the child does not meet the criteria for Item 51 as they do not walk backward within approximately 6 inches of the stepping path for at least 5 feet. The child's performance suggests early progress in backward walking skills but still requires further practice and support to achieve more consistent and controlled backward walking."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_46_2__186f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance as they walk backward along the stepping path. They successfully take at least three steps backward without support, indicating strong motor skills and confidence in their ability to maintain balance while moving in reverse. This performance aligns with the highest scoring criteria for both Item 40 and Item 51, showcasing the child's advanced motor development."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_47_2__2363f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, indicating strong motor skills. The stepping path exercise further confirms the child’s ability to maintain balance while walking backward, achieving a score of 2 for both primary and related items. The child’s performance reflects a high level of motor development and control."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_2__2788f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria outlined in Item 51. The child's performance indicates a high level of motor skill development."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_51_1__GM_40_2__787f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria outlined in Item 51. The child's performance indicates strong motor skills and confidence in walking backward, which is a significant milestone in early childhood development."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_43_2__2074f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance while walking backward, successfully taking at least three steps without support. The stepping path exercise further confirms the child's ability to maintain stability and follow instructions, indicating strong motor skills development."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_43_2__2820f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent backward walking skills, taking at least three steps backward without support and maintaining good balance. The stepping path exercise further confirms the child's ability to walk backward accurately and confidently, aligning with the scoring criteria for both Item 40 and Item 51."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_45_0__4277f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "0",
+    "clinical_justification": "The child does not take at least 2 steps backward without support and loses balance after 1 to 2 steps."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child stumbles walking backward, requires support, or cannot walk backward."
+    }
+  ],
+  "overall_behavioral_synthesis": "In the video, the child is attempting to walk backward but is unable to maintain balance and support. The caregiver and the healthcare professional are assisting by holding the child's hand and guiding her movements. The child takes a few steps backward but quickly loses balance and requires support from the caregiver. This indicates that the child has difficulty with backward walking, which aligns with the scoring criteria for both Item 40 and Item 51."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_46_0__313f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, successfully navigating the stepping path. The child's performance aligns with the highest scoring criteria for both Item 40 and Item 51, indicating strong motor skills and confidence in walking backward."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_36_2__GM_46_1__288f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 in. of the stepping path for at least 5 ft."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance while walking backward along the stepping path. The child successfully takes at least three steps backward without support, indicating strong motor skills and confidence in this task. The stepping path provides a clear visual guide, helping the child maintain proper form and stride. The child's performance aligns well with the scoring criteria for both Item 40 and Item 51, showcasing a high level of development in walking backward."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_40_2__681f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent backward walking skills by taking at least three steps backward without support, maintaining good balance throughout the sequence. The stepping path exercise further confirms the child's ability to walk backward accurately and confidently, aligning with the scoring criteria for both Item 40 and Item 51."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_45_2__5931f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria outlined in Item 51. This performance indicates strong motor skills and spatial awareness."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_47_2__1258f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by the scoring criteria for Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria outlined in Item 51. This performance indicates strong motor skills and confidence in navigating the space backwards."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_2__1431f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "1",
+    "clinical_justification": "The child takes two steps backward without support but shows slight loss of balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "51",
+      "scoring_decision": "1",
+      "clinical_justification": "The child walks backward close to the stepping path for several steps."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates the ability to walk backward by taking two steps without support, though there is a slight loss of balance. The stepping path placed on the floor provides a visual guide, and the child follows it closely for several steps. This performance aligns with the scoring criteria for both Item 40 and Item 51, indicating moderate skill development in walking backward."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_2__2648f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "0",
+    "clinical_justification": "The child does not take at least 2 steps backward without support and loses balance after 1 to 2 steps."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child stumbles walking backward, requiring support, and cannot walk backward."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child attempts to walk backward but is unable to maintain balance and support, resulting in a fall. This indicates that the child has difficulty with backward walking, which aligns with the scoring criteria for both Item 40 and Item 51."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_2__5008f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by the scoring criteria for Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria outlined in Item 51. The child's performance reflects a high level of motor skill development and confidence in performing these tasks independently."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_49_2__5154f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance while walking backward along the stepping path. The child successfully takes at least three steps backward without support, indicating strong motor skills and confidence in this task. The caregiver's guidance and encouragement appear to be instrumental in facilitating this activity, as the child maintains a steady pace and does not lose balance during the process. This performance aligns well with the scoring criteria for both Item 40 and Item 51, reflecting the child's advanced motor development."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_45_2__3794f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "0",
+    "clinical_justification": "The child does not take at least 2 steps backward without support and loses balance after 1 to 2 steps."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "0",
+      "clinical_justification": "The child stumbles walking backward and requires support."
+    }
+  ],
+  "overall_behavioral_synthesis": "During the assessment, the child attempts to walk backward but is unable to maintain balance and support, indicating difficulty with the backward walking task. The child's performance aligns with a score of 0 for both Item 40 and Item 51, as they do not meet the criteria for taking at least two steps backward without support or walking close to the stepping path for at least five feet."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_46_2__586f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent coordination and balance by taking at least three steps backward without support, as required by Item 40. Additionally, the child successfully walks backward along the stepping path, maintaining stability and adhering to the criteria outlined in Item 51. The child's performance indicates strong motor skills and confidence in walking backward."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_48_2__2619f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent backward walking skills, taking at least three steps backward without support and maintaining good balance. The child's performance aligns with the highest scoring criteria for both Item 40 and Item 51, indicating strong motor coordination and confidence in walking backward. The caregiver's guidance and encouragement further facilitate the child's successful completion of these tasks."
+}
+```
+====================================================================
+
+▶️ [VIDEO FILE]: GM_51_1__1503f
+--------------------------------------------------------------------
+```json
+{
+  "primary_item": {
+    "item_id": "Item 40",
+    "scoring_decision": "2",
+    "clinical_justification": "The child takes at least 3 steps backward without support and shows good balance."
+  },
+  "related_items_evaluation": [
+    {
+      "item_id": "Item 51",
+      "scoring_decision": "2",
+      "clinical_justification": "The child walks backward within approximately 6 inches of the stepping path for at least 5 feet."
+    }
+  ],
+  "overall_behavioral_synthesis": "The child demonstrates excellent backward walking skills by taking at least three steps backward without support, maintaining good balance throughout. The child's performance aligns with the highest scoring criteria for both Item 40 and Item 51, indicating strong motor coordination and confidence in walking backward."
+}
+```
+====================================================================
+
